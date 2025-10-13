@@ -13,7 +13,7 @@ title                    : "Hai Zhu / Personal Homepage"
 title_separator          : "-"
 name                     : &name "Hai Zhu"
 description              : &description "PhD student at UCSD"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : "https://haz138.github.io" # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+url                      : https://haz138.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "haz138/haz138.github.io"
