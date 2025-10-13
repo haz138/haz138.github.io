@@ -1,7 +1,7 @@
 ---
 title: "Boolean Schubert Structure Coefficients"
 collection: publications
-category: conferences
+category: articles
 permalink: /publication/Boolean-Schubert-Structure-Coefficients
 excerpt: 'The Schubert problem asks for combinatorial models to compute structure constants of the cohomology ring with respect to Schubert classes and has been an important open problem in algebraic geometry and combinatorics that guided fruitful research for decades. In this paper, we provide an explicit formula for the (equivariant) Schubert structure constants $c_{uv}^w$ across all Lie types when the elements $u,v,w$ are boolean. In particular, in type $A$, all Schubert structure constants on boolean elements are either $0$ or $1$.'
 date: 2025-10-10
