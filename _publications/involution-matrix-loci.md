@@ -1,5 +1,5 @@
 ---
-title: "Involution matrix loci and orbit harmonics"
+title: "Involution matrix loci and orbit harmonics (with Jasper M. Liu, Yichen Ma, and Brendon Rhoades)"
 collection: publications
 category: articles
 permalink: /publication/involution-matrix-loci
