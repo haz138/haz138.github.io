@@ -1,7 +1,7 @@
 ---
 title: "Boolean Schubert Structure Coefficients"
 collection: publications
-permalink: /publications/Boolean-Schubert-Structure-Coefficients
+permalink: /publication/Boolean-Schubert-Structure-Coefficients
 excerpt: 'This paper is about fixing template issue #693.'
 date: 2025-10-10
 venue: 'Journal of Algebra'
