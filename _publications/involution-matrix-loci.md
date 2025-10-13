@@ -3,7 +3,7 @@ title: "Involution matrix loci and orbit harmonics (with Jasper M. Liu, Yichen M
 collection: publications
 category: articles
 permalink: /publication/involution-matrix-loci
-excerpt: 'Let $$\mathrm{Mat}_{n \times n}(\mathbb{C})$$ be the affine space of $$n \times n$$ complex matrices with coordinate ring $$\mathbb{C}[\mathbf{x}_{n \times n}]$$. We define graded quotients of $$\mathbb{C}[\mathbf{x}_{n \times n}]$$ which carry an action of the symmetric group $$\mathfrak{S}_n$$ by simultaneous permutation of rows and columns. These quotient rings are obtained by applying the orbit harmonics method to matrix loci corresponding to all involutions in $$\mathfrak{S}_n$$ and the conjugacy classes of involutions in $$\mathfrak{S}_n$$ with a given number of fixed points. In the case of perfect matchings on $$\{1, \dots, n\}$$ with $$n$$ even, the Hilbert series of our quotient ring is related to Tracy-Widom distributions and its graded Frobenius image gives a refinement of the plethysm $$h_{n/2}[h_2]$$.'
+excerpt: 'This article was contained in [a talk of FPSAC 2025](https://www.math.sci.hokudai.ac.jp/sympo/fpsac2025/public/slides/liu.pdf)'
 date: 2025-04-05
 venue: 'Mathematische Zeitschrift'
 paperurl: 'https://link.springer.com/article/10.1007/s00209-025-03736-4'
