@@ -9,4 +9,3 @@ venue: 'Mathematische Zeitschrift'
 paperurl: 'https://link.springer.com/article/10.1007/s00209-025-03736-4'
 ---
 
-Using [MathJax](https://www.mathjax.org/) in the description is supported - $$E=mc^2$$ - however, the use must be mindful that the default delimiters are `$$...$$` and `\\[...\\]` which differs from the `$...$` that is typically expected.
