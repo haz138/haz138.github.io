@@ -6,6 +6,6 @@ permalink: /publication/rook-orbit-harmonics
 excerpt: ''
 date: 2026-7-17
 venue: 'Mathematische Zeitschrift'
-paperurl: '[https://arxiv.org/abs/2510.25106](https://link.springer.com/article/10.1007/s00209-026-04090-9)'
+paperurl: 'https://link.springer.com/article/10.1007/s00209-026-04090-9'
 ---
 
