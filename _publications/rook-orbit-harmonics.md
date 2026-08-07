@@ -1,11 +1,11 @@
 ---
 title: "Rook placements and orbit harmonics"
 collection: publications
-category: preprints
+category: articles
 permalink: /publication/rook-orbit-harmonics
 excerpt: ''
 date: 2025-10-29
-venue: 'ArXiv'
-paperurl: 'https://arxiv.org/abs/2510.25106'
+venue: 'Journal'
+paperurl: '[https://arxiv.org/abs/2510.25106](https://link.springer.com/article/10.1007/s00209-026-04090-9)'
 ---
 
