@@ -11,35 +11,33 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Mathematics, UC San Diego, 2030 (expected)
+* B.S. in Mathematics, Peking University, 2025
+* Hengshui No.1 High School, 2021
+* Tangshan N0.54 Middle School, 2018
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Spring 2025: Teaching Assistant
+  * UC San Diego
+  * Duties included: Leading discussion sections, grading exams, hold office hours
+  * Supervisor: Professor [Leesa B. Anzaldo](https://sites.google.com/ucsd.edu/lbanzaldo/)
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Winter 2025: Teaching Assistant
+  * UC San Diego
+  * Duties included: Leading discussion sections, grading exams, hold office hours
+  * Supervisor: Professor [Chin Wei Ho](https://profiles.ucsd.edu/chingwei.ho)
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Fall 2025: Teaching Assistant
+  * UC San Diego
+  * Duties included: Leading discussion sections, grading exams, hold office hours
+  * Supervisor: Professor [Adam Bowers](https://mathweb.ucsd.edu/~abowers/)
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Mathematics research with a focus on algebraic combinatorics
+* SageMath coding
+* Python coding
 
 Publications
 ======
@@ -61,4 +59,3 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
