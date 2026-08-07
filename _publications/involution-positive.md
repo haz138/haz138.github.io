@@ -4,8 +4,8 @@ collection: publications
 category: preprints
 permalink: /publication/involution-positive
 excerpt: ''
-date: 2025-07-15
-venue: 'ArXiv'
-paperurl: 'https://arxiv.org/abs/2507.11747'
+date: 2026-06-05
+venue: 'Electronic Journal of Combinatorics'
+paperurl: 'https://doi.org/10.37236/14808'
 ---
 
