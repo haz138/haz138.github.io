@@ -14,7 +14,7 @@ Education
 * Ph.D in Mathematics, UC San Diego, 2030 (expected)
 * B.S. in Mathematics, Peking University, 2025
 * Hengshui No.1 High School, 2021
-* Tangshan N0.54 Middle School, 2018
+* Tangshan No.54 Middle School, 2018
 
 Work experience
 ======
