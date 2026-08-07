@@ -1,7 +1,7 @@
 ---
 title: "Positive combinatorial formulae for involution matrix loci and orbit harmonics"
 collection: publications
-category: preprints
+category: articles
 permalink: /publication/involution-positive
 excerpt: ''
 date: 2026-06-05
