@@ -1,5 +1,5 @@
 ---
-title: "An extension of Viennot's shadow to rook placements via orbit harmonics"
+title: "An extension of Viennot's shadow to rook placements via orbit harmonics (with Jasper M. Liu)"
 collection: publications
 category: preprints
 permalink: /publication/Rook-Viennot
